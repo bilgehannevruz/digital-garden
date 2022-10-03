@@ -1,0 +1,59 @@
+site_name: Digital Garden
+
+theme:
+  name: "material"
+  language: en
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+  palette:
+    # Palette for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    # Palette for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.emoji
+
+
+plugins:
+  - search
+  - mermaid2:
+      arguments:
+        theme: |
+          ^(JSON.parse(__md_get("__palette").index == 1)) ? "light" : "dark"
+  - mkdocstrings
+
+extra_javascript:
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - extra/dark_light_switch.js
+
+
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Blog: blog.md
