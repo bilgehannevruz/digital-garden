@@ -1,0 +1,5 @@
+---
+Created: 2023-12-29T00:51
+---
+Create a snakemake pipeline for variant analysis of genomic data using GATK4 best practices and DNAscope. The pipeline should be able to:  
+- Perform quality control of FASTQ files using FastQC and MultiQC- Align reads to a reference genome using DRAGMAP or BWA-MEM- Mark duplicates and sort BAM files using Picard- Perform base recalibration and variant calling using GATK4 HaplotypeCaller- Apply hard or soft filters to the variants using GATK4 VariantFiltration or VariantRecalibrator- Annotate the variants using SnpEff or VEP and predict their impact using in silico tools such as SIFT, PolyPhen-2, CADD, and REVEL- Generate summary statistics and reports using bcftools and GATK4 CollectVariantCallingMetrics- Apply machine learning to the variants using DNAscope and imbalanced data preprocessing techniques, such as SMOTE, ADASYN, or Tomek links[^1^][1] [^2^][2]- Compare the performance of the pipeline with DeepVariant using recall, precision and F1 score as metrics- Create a variant database using ClinVar, LOVD, or dbVar[^3^][3] [^4^][4] [^5^][5] and report the prevalence of each variant in your center

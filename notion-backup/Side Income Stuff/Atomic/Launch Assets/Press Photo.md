@@ -1,0 +1,4 @@
+---
+Asset Type:
+  - Photo
+---
