@@ -18,7 +18,7 @@
 |[[Create report template]]||||||[[NGS-GV-Pipeline]]||Not started||No content||
 |[[Jasper data 2022]]|BBilgehan Nevruz|||||||Archived||No content.||
 |[[NGS-GV-Pipeline]]|BBilgehan Nevruz|||||||In progress|[[Create report template]], [[Add qc steps as rules]], [[Modularize more]]|No content||
-|[[obsidian/notion-backup/Personal Home/Tasks/IRODS]]|BBilgehan Nevruz|||||||Not started||No content||
+|[[obisidian/notion-backup/Personal Home/Tasks/IRODS]]|BBilgehan Nevruz|||||||Not started||No content||
 |[[Test backup flow snakemake]]|BBilgehan Nevruz|||||||In progress||No content||
 |[[WES-CNV - complete for elisabeth]]|BBilgehan Nevruz|||||||In progress||No content||
 |[[Add thresholds to RoDa Snakemake]]|||February 5, 2023|||||Not started||||

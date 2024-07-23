@@ -48,8 +48,8 @@ Contact Email:
 |---|---|---|---|---|
 |[[Example Post 1]]|Post teaser X on TikTok||TikTok|November 25, 2022|
 |[[Example Upload]]|||Other, YouTube|December 7, 2022|
-|[[obsidian/notion-backup/Side Income Stuff/Atomic/Marketing Plan/Content Calendar/Kia's Birthday Party/Kia's Birthday Party\|Kia's Birthday Party]]|I will clean up! Absolutely do not worry about it.|Ekin Oflazer||August 18, 2022|
-|[[obsidian/notion-backup/Side Income Stuff/Atomic/Marketing Plan/Content Calendar/Kia's Birthday Party]]|I will clean up! Absolutely do not worry about it.|Ekin Oflazer||August 18, 2022|
+|[[obisidian/notion-backup/Side Income Stuff/Atomic/Marketing Plan/Content Calendar/Kia's Birthday Party/Kia's Birthday Party\|Kia's Birthday Party]]|I will clean up! Absolutely do not worry about it.|Ekin Oflazer||August 18, 2022|
+|[[obisidian/notion-backup/Side Income Stuff/Atomic/Marketing Plan/Content Calendar/Kia's Birthday Party]]|I will clean up! Absolutely do not worry about it.|Ekin Oflazer||August 18, 2022|
 |[[October Rent Due!]]||David Tibbitts||August 15, 2022|
 |[[Kia's Birthday Party 2]]|I will clean up! Absolutely do not worry about it.|Ekin Oflazer||August 18, 2022|
 

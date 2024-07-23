@@ -2,7 +2,7 @@
 |---|---|---|
 |[[BiLa- Daoud 6]]|July 17, 2024 10:32 AM||
 |[[BiLa- Karima 2]]|July 4, 2024 1:03 PM||
-|[[obsidian/notion-backup/Personal Home/Meetings/IRODS\|IRODS]]|June 28, 2024 1:34 PM||
+|[[obisidian/notion-backup/Personal Home/Meetings/IRODS\|IRODS]]|June 28, 2024 1:34 PM||
 |[[CTS - Google Cloud]]|June 13, 2024 4:04 PM||
 |[[Parkinson Study]]|May 28, 2024 10:01 AM|Daoud|
 |[[BiLa- Daoud 8]]|March 26, 2024 5:12 PM||

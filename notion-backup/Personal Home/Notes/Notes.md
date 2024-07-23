@@ -25,8 +25,8 @@ Categorize entries with tags and automatically capture the date.
 |[[Deep learning]]|February 13, 2024 5:36 PM||[https://www.nature.com/articles/s41467-024-45191-5](https://www.nature.com/articles/s41467-024-45191-5)|
 |[[14 Free Large Language Models Fine-Tuning Notebooks by Youssef Hosni Feb, 2024]]|February 11, 2024 7:34 PM||[https://levelup.gitconnected.com/14-free-large-language-models-fine-tuning-notebooks-532055717cb7](https://levelup.gitconnected.com/14-free-large-language-models-fine-tuning-notebooks-532055717cb7)|
 |[[Bbb]]|January 17, 2024 6:22 PM||[https://www.marktechpost.com/2024/01/11/meet-neograd-a-deep-learning-framework-created-from-scratch-using-python-and-numpy-with-automatic-differentiation-capabilities/](https://www.marktechpost.com/2024/01/11/meet-neograd-a-deep-learning-framework-created-from-scratch-using-python-and-numpy-with-automatic-differentiation-capabilities/)|
-|[[obsidian/notion-backup/Personal Home/Notes/Untitled]]|December 29, 2023 12:51 AM|||
-|[[obsidian/notion-backup/Personal Home/Notes/Untitled 2]]|December 28, 2023 11:36 AM|||
+|[[obisidian/notion-backup/Personal Home/Notes/Untitled]]|December 29, 2023 12:51 AM|||
+|[[obisidian/notion-backup/Personal Home/Notes/Untitled 2]]|December 28, 2023 11:36 AM|||
 |[[https---app.wope.com-bilgehannevruz---overview]]|December 10, 2023 4:25 PM|||
 |[[New Reference NIPT]]|November 23, 2023 9:06 AM|||
 |[[Passwords]]|November 22, 2023 11:26 AM|||

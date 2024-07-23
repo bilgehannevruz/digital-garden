@@ -6,4 +6,4 @@ Created: 2023-05-07T00:15
 |Name|Phone|Type|Email|
 |---|---|---|---|
 |[[Bob's Catering]]|0980931289|Food|catering@gmail.com|
-|[[obsidian/notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Vendor Details/Catering/Untitled\|Untitled]]||||
+|[[obisidian/notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Vendor Details/Catering/Untitled\|Untitled]]||||
