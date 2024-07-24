@@ -1,7 +1,6 @@
 ---
 Created: 2023-11-22T11:24
-tags:
-  - Daily
+tags: []
 ---
 > [!important]  
 > Notion Tip: Create a new page and select Daily entry from the list of template options to automatically generate the format below every day.  
