@@ -11,8 +11,13 @@
             "id": "9a1dc154af8c96bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "meeting-notes/2024-07-23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "meeting-notes/2024-07-23.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "meeting-notes/2024-07-23.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +114,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "meeting-notes/2024-07-23.md"
+          }
         }
       }
     ],
@@ -124,5 +133,8 @@
     }
   },
   "active": "9a1dc154af8c96bf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "meeting-notes/2024-07-25.md",
+    "meeting-notes/2024-07-23.md"
+  ]
 }
