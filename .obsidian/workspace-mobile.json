@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5068b9b3f9a5fb12",
+        "id": "d5cb5319951f16a4",
         "type": "tabs",
         "children": [
           {
-            "id": "9a1dc154af8c96bf",
+            "id": "3bc4b3fe39027094",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,10 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a1dc154af8c96bf",
+  "active": "3bc4b3fe39027094",
   "lastOpenFiles": [
-    "daily-notes/2024-31/2024-Jul-29.md",
+    "2024-07-31.md",
     "daily-notes/2024-31/2024-Jul-31.md",
+    "daily-notes/2024-31/2024-Jul-29.md",
     "/daily-notes/2024-31/2024-Jul-31.md",
     "/daily-notes/2024-31/2024-Jul-30.md",
     "/daily-notes/2024-31/2024-Jul-29.md",
