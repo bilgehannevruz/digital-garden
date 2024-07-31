@@ -117,6 +117,14 @@
             "file": "daily-notes/2024-31/2024-Jul-31.md"
           }
         }
+      },
+      {
+        "id": "5c75be529d30f195",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
