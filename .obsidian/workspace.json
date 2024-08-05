@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-32/2024-Aug-05.md",
+                "file": "daily-notes/2024-08/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,64 +89,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "9a21fb83f36d9d58",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "daily-notes/2024-32/2024-Aug-05.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "eaf964dddd9083da",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "daily-notes/2024-32/2024-Aug-05.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "eb067a079812ef17",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "daily-notes/2024-32/2024-Aug-05.md"
-              }
-            }
-          },
-          {
-            "id": "813630ab9d3c78cd",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "be98fe6967fa7772",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,9 +106,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a23f4e9a15ca3b78",
+  "active": "028f45e121eb6681",
   "lastOpenFiles": [
-    "daily-notes/2024-08/32-2024-Aug-07.md",
+    "daily-notes/2024-08/2024-Aug-06.md",
+    "daily-notes/2024-08/Untitled.md",
+    "daily-notes/2024-08/2024-Aug-07.md",
+    "daily-notes/2024-32/2024-Aug-06.md",
     "daily-notes/2024-32/2024-Aug-05.md",
     "daily-notes/2024-32",
     "conflict-files-obsidian-git.md",
@@ -194,9 +141,6 @@
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Tonya.md",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Wendelin.md",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Tracy.md",
-    "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Tony.md",
-    "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Tom.md",
-    "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Tim.md",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Vendor Details",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Guest list Follow Ups",
     "notion-backup/Side Income Stuff/Atomic/Social Media Planner/Dashboard/Idea",
