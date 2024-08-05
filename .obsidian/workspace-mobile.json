@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-31/2024-Aug-03.md",
+                "file": "daily-notes/2024-32/2024-Aug-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "daily-notes/2024-31/2024-Aug-03.md",
+            "file": "daily-notes/2024-32/2024-Aug-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "daily-notes/2024-31/2024-Aug-03.md",
+            "file": "daily-notes/2024-32/2024-Aug-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "daily-notes/2024-31/2024-Aug-03.md"
+            "file": "daily-notes/2024-32/2024-Aug-05.md"
           }
         }
       },
@@ -141,8 +141,14 @@
   },
   "active": "3bc4b3fe39027094",
   "lastOpenFiles": [
-    "daily-notes/2024-31/2024-Aug-01.md",
+    "daily-notes/2024-08/32-2024-Aug-07.md",
+    "/daily-notes/2024-08/32-2024-Aug-07.md",
+    "daily-notes/2024-08",
+    "/daily-notes/2024-08",
     "daily-notes/2024-31/2024-Aug-03.md",
+    "daily-notes/2024-32/2024-Aug-05.md",
+    "daily-notes/2024-32",
+    "daily-notes/2024-31/2024-Aug-01.md",
     "Untitled.md",
     "daily-notes/2024-31/2024-Jul-30.md",
     "daily-notes/2024-31/2024-Jul-31.md",
