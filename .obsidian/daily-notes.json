@@ -1,6 +1,6 @@
 {
-  "folder": "daily-notes",
-  "format": "YYYY-W/YYYY-MMM-DD",
-  "template": "templates/Daily template",
-  "autorun": true
+  "folder": "obisidian/daily-notes/",
+  "template": "obisidian/templates/Daily template",
+  "autorun": true,
+  "format": "YYYY-MM/ww-YYYY-MMM-DD"
 }

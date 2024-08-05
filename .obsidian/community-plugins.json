@@ -1,5 +1,9 @@
 [
   "obsidian-git",
   "obsidian-reminder-plugin",
-  "obsidian-tasks-plugin"
+  "nested-daily-todos",
+  "obsidian-minimal-settings",
+  "calendar",
+  "obsidian-kanban",
+  "settings-profiles"
 ]

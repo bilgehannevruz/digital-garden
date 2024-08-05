@@ -1,26 +1,11 @@
 {
   "scanned": true,
-  "reminders": {
-    "daily-notes/2024-31/2024-Jul-31.md": [
-      {
-        "title": "check beegfs df",
-        "time": "2024-08-01",
-        "rowNumber": 1
-      }
-    ],
-    "daily-notes/2024-31/2024-Aug-01.md": [
-      {
-        "title": "check beegfs df",
-        "time": "2024-08-03 15:38",
-        "rowNumber": 2
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
-    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
-    "useSystemNotification": false,
+    "laters": "In 5 minutes\nIn 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
     "primaryReminderFormat": "ReminderPluginReminderFormat",
     "enableReminderPluginReminderFormat": true,
