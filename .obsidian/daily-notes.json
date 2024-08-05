@@ -1,6 +1,6 @@
 {
-  "folder": "obisidian/daily-notes/",
-  "template": "obisidian/templates/Daily template",
+  "folder": "daily-notes/2024-08",
+  "template": "templates/Daily template",
   "autorun": true,
   "format": "YYYY-MM/ww-YYYY-MMM-DD"
 }
