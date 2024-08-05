@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": ".obs",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -73,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9111baf7f7d2d54d",
@@ -141,12 +141,14 @@
   },
   "active": "3bc4b3fe39027094",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "templates/Daily template.md",
     "daily-notes/2024-08/32-2024-Aug-07.md",
+    "daily-notes/2024-32/2024-Aug-05.md",
     "/daily-notes/2024-08/32-2024-Aug-07.md",
     "daily-notes/2024-08",
     "/daily-notes/2024-08",
     "daily-notes/2024-31/2024-Aug-03.md",
-    "daily-notes/2024-32/2024-Aug-05.md",
     "daily-notes/2024-32",
     "daily-notes/2024-31/2024-Aug-01.md",
     "Untitled.md",
