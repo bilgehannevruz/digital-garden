@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-08/2024-Aug-05.md",
+                "file": "daily-notes/archive/2024/08-August/2024-08-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-08/2024-Aug-06.md",
+                "file": "templates/Daily template.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-08/2024-Aug-06.md",
+                "file": "templates/Daily template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-08/2024-Aug-06.md",
+                "file": "templates/Daily template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily-notes/2024-08/2024-Aug-06.md"
+                "file": "templates/Daily template.md"
               }
             }
           },
@@ -164,14 +164,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "nested-daily-todos:Add incomplete todos to today's note": false
+      "nested-daily-todos:Add incomplete todos to today's note": false,
+      "obligator:Open today's obligator note": false
     }
   },
   "active": "26f79318b503229d",
   "lastOpenFiles": [
-    "daily-notes/2024-08/2024-Aug-07.md",
+    "daily-notes/2024/08-August/2024-08-06.md",
+    "daily-notes/archive/2024/08-August",
+    "daily-notes/archive/2024",
+    "daily-notes/archive",
+    "daily-notes/archive/2024/08-August/2024-08-05.md",
     "daily-notes/2024-08/2024-Aug-06.md",
-    "daily-notes/2024-08/2024-Aug-05.md",
+    "daily-notes/2024/08-August",
+    "daily-notes/2024",
+    "daily-notes/2024-08/2024-Aug-07.md",
     "daily-notes/2024-32/2024-Aug-06.md",
     "daily-notes/2024-32/2024-Aug-05.md",
     "daily-notes/2024-32",
@@ -193,18 +200,11 @@
     "notion-backup/Side Income Stuff/Atomic/Social Media Planner/Dashboard/Idea/Ideas/Untitled 3.md",
     "notion-backup/Side Income Stuff/Atomic/Social Media Planner/Dashboard/Idea/Ideas/Untitled.md",
     "notion-backup/Side Income Stuff/Atomic/Social Media Planner/Dashboard/Idea/Ideas/Untitled 2.md",
-    "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Vendor Details/Catering",
-    "notion-backup/Side Income Stuff/Atomic/Social Media Planner/Dashboard/Idea/Ideas",
     "notion-backup/Side Income Stuff/Atomic/Marketing Plan/Content Calendar/Kia's Birthday Party/Kia's Birthday Party.md",
     "notion-backup/Side Income Stuff/Atomic/Marketing Plan/Content Calendar/October Rent Due!/October Rent Due!.md",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Zach.md",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Wendy.md",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Tonya.md",
-    "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Wendelin.md",
-    "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Number of Guests 209/Tracy.md",
-    "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Vendor Details",
-    "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Guest list Follow Ups",
-    "notion-backup/Side Income Stuff/Atomic/Social Media Planner/Dashboard/Idea",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Viral-Launch-Example-Parameters.jpg",
