@@ -1,6 +1,6 @@
 {
   "initial": "",
-  "terminal": "",
+  "terminal": "### 🔚",
   "date_format": "YYYY/MM-MMMM/YYYY-MM-DD",
   "template_path": "templates/Daily template",
   "note_path": "daily-notes",

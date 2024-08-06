@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/archive/2024/08-August/2024-08-05.md",
+                "file": "daily-notes/2024/08-August/2024-08-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "daily-notes/2024/08-August/2024-08-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "daily-notes/2024/08-August/2024-08-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "daily-notes/2024/08-August/2024-08-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily template.md"
+                "file": "daily-notes/2024/08-August/2024-08-05.md"
               }
             }
           },
@@ -170,11 +170,12 @@
   },
   "active": "26f79318b503229d",
   "lastOpenFiles": [
+    "templates/Daily template.md",
+    "daily-notes/2024/08-August/2024-08-05.md",
     "daily-notes/2024/08-August/2024-08-06.md",
     "daily-notes/archive/2024/08-August",
     "daily-notes/archive/2024",
     "daily-notes/archive",
-    "daily-notes/archive/2024/08-August/2024-08-05.md",
     "daily-notes/2024-08/2024-Aug-06.md",
     "daily-notes/2024/08-August",
     "daily-notes/2024",
@@ -188,7 +189,6 @@
     "daily-notes/2024-08/2024-08",
     "obisidian/daily-notes/2024-08/32-2024-Aug-05.md",
     "Untitled",
-    "templates/Daily template.md",
     "templates",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Guest list Follow Ups/PARTY GOERS!/zeina.md",
     "notion-backup/Side Income Stuff/Atomic/Launch Party Planner/Guestlist/Event Manager/Guest list Follow Ups/PARTY GOERS!/lubna.md",
