@@ -132,53 +132,6 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "26ade594a193571b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "daily-notes/2024/08-August/2024-08-06.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "05f0faa58aeb2cfe",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "daily-notes/2024/08-August/2024-08-06.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "882e95159bdd98cd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "daily-notes/2024/08-August/2024-08-06.md"
-              }
-            }
-          },
-          {
-            "id": "34e07e4ee2db767c",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
           }
         ]
       }
