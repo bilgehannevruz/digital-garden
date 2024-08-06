@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "daily-notes/2024/08-August/2024-08-06.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "02f6075f5881fa46"
+          }
+        ]
+      },
+      {
+        "id": "c6ab2c575b0f3c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0935ab9f3c8b2700",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "daily-notes/2024/08-August/2024-08-06.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "02f6075f5881fa46"
           }
         ]
       }
@@ -96,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "daily-notes/2024/08-August/2024-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Daily template.md",
+                "file": "daily-notes/2024/08-August/2024-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Daily template.md"
+                "file": "daily-notes/2024/08-August/2024-08-06.md"
               }
             }
           },
@@ -156,8 +199,8 @@
   },
   "active": "26f79318b503229d",
   "lastOpenFiles": [
-    "daily-notes/2024/08-August/2024-08-06.md",
     "templates/Daily template.md",
+    "daily-notes/2024/08-August/2024-08-06.md",
     "daily-notes/2024-08/2024-Aug-06.md",
     "daily-notes/archive/2024/08-August/2024-08-05.md",
     "daily-notes/archive/2024/08-August",
