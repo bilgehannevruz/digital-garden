@@ -17,50 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "02f6075f5881fa46"
-          }
-        ]
-      },
-      {
-        "id": "c6ab2c575b0f3c29",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0935ab9f3c8b2700",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "daily-notes/2024/08-August/2024-08-07.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "02f6075f5881fa46"
+            }
           }
         ]
       }
