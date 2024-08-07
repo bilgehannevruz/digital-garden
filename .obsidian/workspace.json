@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024/08-August/2024-08-06.md",
+                "file": "daily-notes/2024/08-August/2024-08-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily-notes/2024/08-August/2024-08-06.md",
+                "file": "daily-notes/2024/08-August/2024-08-07.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,6 +132,53 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "862e70d7297c1571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily-notes/2024/08-August/2024-08-07.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c4170a21dd22053",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily-notes/2024/08-August/2024-08-07.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c081314e079f336b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily-notes/2024/08-August/2024-08-07.md"
+              }
+            }
+          },
+          {
+            "id": "1bc29fc6720b217f",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
         ]
       }
@@ -152,8 +199,9 @@
   },
   "active": "26f79318b503229d",
   "lastOpenFiles": [
+    "daily-notes/archive/2024/08-August/2024-08-06.md",
+    "daily-notes/2024/08-August/2024-08-07.md",
     "templates/Daily template.md",
-    "daily-notes/2024/08-August/2024-08-06.md",
     "daily-notes/2024-08/2024-Aug-06.md",
     "daily-notes/archive/2024/08-August/2024-08-05.md",
     "daily-notes/archive/2024/08-August",
