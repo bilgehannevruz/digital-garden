@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Product",
+                "query": "tag:#cluster/backup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
       "obligator:Open today's obligator note": false
     }
   },
-  "active": "26f79318b503229d",
+  "active": "abbdc84406de2ee2",
   "lastOpenFiles": [
     "notion-backup/Personal Home/Docs/New Product Spec (PRD).md",
     "notion-backup/Personal Home/Docs/New Brainstorm.md",
