@@ -3,8 +3,7 @@ Created by: BBilgehan Nevruz
 Created time: 2023-06-27T22:22
 Last edited by: BBilgehan Nevruz
 Last edited time: 2023-06-27T22:22
-tags:
-  - Product
+tags: []
 ---
 > [!important]  
 > Notion Tip: Use this template to source ideas from your team even when you're not in the same room. Articulate a question you'd like to have answered. At the same time, people can add their bulleted ideas below that question and tag themselves. Click New topic to generate a new question to answer.  

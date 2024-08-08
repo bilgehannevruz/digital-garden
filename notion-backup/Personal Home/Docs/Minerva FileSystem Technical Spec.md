@@ -3,8 +3,7 @@ Created by: BBilgehan Nevruz
 Created time: 2024-02-13T16:50
 Last edited by: BBilgehan Nevruz
 Last edited time: 2024-02-13T16:57
-tags:
-  - Engineering
+tags: []
 ---
 Given your project description, it seems like you're working on integrating a Laboratory Information Management System (LIMS) with a High-Performance Computing (HPC) application. The LIMS app will manage laboratory data and workflows, while the HPC app will be responsible for performing intensive computations on the data. Your choice of PostgreSQL as the database and Django ORM for object-relational mapping, combined with Django Rest Framework for building APIs, is a solid foundation for such a project. Here’s a high-level database schema to get you started:
 

@@ -1,10 +1,13 @@
 ---
-Created by: BBilgehan Nevruz
+Created by: Bilgehan Nevruz
 Created time: 2023-06-27T22:22
-Last edited by: BBilgehan Nevruz
+Last edited by: Bilgehan Nevruz
 Last edited time: 2023-06-27T22:22
-tags:
-  - Product
+tags: 
+Comments: 
+Summary: 
+Type: 
+Done: false
 ---
   
 

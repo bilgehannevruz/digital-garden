@@ -3,8 +3,7 @@ Created by: BBilgehan Nevruz
 Created time: 2023-06-27T22:22
 Last edited by: BBilgehan Nevruz
 Last edited time: 2023-06-27T22:22
-tags:
-  - Engineering
+tags: []
 ---
 # Problem statement
 
